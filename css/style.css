@@ -1,0 +1,66 @@
+.netflix-logo{
+    width: 180px;
+    height: 100px; 
+   margin-left: 40px;
+}
+
+.user-pic {
+    width: 60PX;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.right-section {
+ display: flex;
+ margin-left: 20px;
+}
+
+
+.right-section {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+}
+
+.right-section-items {
+    display: flex;
+    align-items: center; 
+    gap: 10px; 
+}
+ 
+
+    .social-icons i {
+        margin: 0 10px; /* Adjust the margin value as needed */
+    }
+  
+
+    button {
+        color: aliceblue;
+        display: flex;
+        justify-content: end;
+        margin-left: 250px;
+        padding: 0.8em;
+        background-color: black;
+        border: solid ; 
+        border-color: grey;
+    }
+
+
+    p {
+        color: aliceblue;
+        display: flex;
+        justify-content: start;
+        margin-left: 200px;
+        padding: 0.8em;
+        margin-top: 1em;
+     
+    }
+
+    .social-icons {
+        display: flex;
+        justify-content: start;
+        margin-left: 250px;
+        color: rgb(143, 139, 139);
+        margin-top: 2em;
+        width: 300px;
+    }
